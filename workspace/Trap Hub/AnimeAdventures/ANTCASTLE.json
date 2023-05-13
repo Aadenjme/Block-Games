@@ -1,0 +1,331 @@
+{
+  "53": {
+    "wave/time": "Wave: 11|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "43": {
+    "money": 3250,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "63": {
+    "wave/time": "Wave: 14|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "47": {
+    "money": 5000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "37": {
+    "money": 1200,
+    "type": "spawn_unit",
+    "cframe": "-152.609192, 23.01264, 2969.65747, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "emilia"
+  },
+  "57": {
+    "wave/time": "Wave: 12|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "27": {
+    "money": 800,
+    "type": "spawn_unit",
+    "cframe": "-150.725464, 23.01264, 2964.82202, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "wendy"
+  },
+  "17": {
+    "money": 1500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-153.893921,  24.2926388,  2966.37476"
+  },
+  "13": {
+    "money": 750,
+    "type": "upgrade_unit_ingame",
+    "pos": "-153.893921,  24.2926388,  2966.37476"
+  },
+  "33": {
+    "money": 7500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.587479,  24.2926426,  2952.68237"
+  },
+  "23": {
+    "money": 1700,
+    "type": "spawn_unit",
+    "cframe": "-148.239487, 26.728632, 2963.68896, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "metal_knight_evolved"
+  },
+  "42": {
+    "wave/time": "Wave: 9|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "52": {
+    "money": 5500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "62": {
+    "money": 1200,
+    "type": "spawn_unit",
+    "cframe": "-169.290405, 23.01264, 2959.28149, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "emilia"
+  },
+  "36": {
+    "money": 2500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "46": {
+    "money": 3500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "56": {
+    "money": 8500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "66": {
+    "wave/time": "Wave: 15|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "16": {
+    "wave/time": "Wave: 3|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "26": {
+    "money": 800,
+    "type": "spawn_unit",
+    "cframe": "-152.034241, 23.01264, 2962.68066, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "wendy"
+  },
+  "12": {
+    "money": 750,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.262756,  24.2926388,  2964.53467"
+  },
+  "22": {
+    "money": 1700,
+    "type": "spawn_unit",
+    "cframe": "-148.889725, 26.728632, 2960.70728, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "metal_knight_evolved"
+  },
+  "32": {
+    "wave/time": "Wave: 6|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "61": {
+    "money": 12500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "51": {
+    "money": 5000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "41": {
+    "money": 2800,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "65": {
+    "money": 10000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "55": {
+    "money": 7000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "45": {
+    "money": 3500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "35": {
+    "money": 10000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.587479,  24.2926426,  2952.68237"
+  },
+  "59": {
+    "money": 10000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "49": {
+    "wave/time": "Wave: 10|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "39": {
+    "wave/time": "Wave: 8|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "29": {
+    "money": 4500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.587479,  24.2926426,  2952.68237"
+  },
+  "1": {
+    "wave/time": "Wave: 1|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "3": {
+    "money": 1000,
+    "type": "spawn_unit",
+    "cframe": "-155.262756, 23.0126381, 2964.53467, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "nami_evolved"
+  },
+  "2": {
+    "money": 1000,
+    "type": "spawn_unit",
+    "cframe": "-153.893921, 23.0126381, 2966.37476, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "nami_evolved"
+  },
+  "19": {
+    "money": 1200,
+    "type": "spawn_unit",
+    "cframe": "-170.903381, 23.01264, 2957.02173, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "emilia"
+  },
+  "4": {
+    "money": 1000,
+    "type": "spawn_unit",
+    "cframe": "-156.707428, 23.0126381, 2962.24609, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "nami_evolved"
+  },
+  "7": {
+    "wave/time": "Wave: 2|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "6": {
+    "money": 800,
+    "type": "spawn_unit",
+    "cframe": "-155.587479, 23.0126419, 2952.68237, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "bulma"
+  },
+  "25": {
+    "money": 800,
+    "type": "spawn_unit",
+    "cframe": "-152.84285, 23.01264, 2960.36572, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "wendy"
+  },
+  "15": {
+    "money": 1500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.262756,  24.2926388,  2964.53467"
+  },
+  "31": {
+    "money": 2500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "21": {
+    "money": 3000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.587479,  24.2926426,  2952.68237"
+  },
+  "11": {
+    "money": 750,
+    "type": "upgrade_unit_ingame",
+    "pos": "-156.707428,  24.2926388,  2962.24609"
+  },
+  "60": {
+    "wave/time": "Wave: 13|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "40": {
+    "money": 12500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.587479,  24.2926426,  2952.68237"
+  },
+  "50": {
+    "money": 5500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "54": {
+    "money": 7000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "64": {
+    "money": 15000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "34": {
+    "wave/time": "Wave: 7|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "44": {
+    "money": 3250,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.239883,  28.8659935,  2963.68896"
+  },
+  "48": {
+    "money": 1200,
+    "type": "spawn_unit",
+    "cframe": "-148.708191, 23.01264, 2985.2312, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "emilia"
+  },
+  "58": {
+    "money": 8500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "28": {
+    "wave/time": "Wave: 5|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "38": {
+    "money": 2800,
+    "type": "upgrade_unit_ingame",
+    "pos": "-148.890121,  28.8659935,  2960.70728"
+  },
+  "18": {
+    "money": 1500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.587479,  24.2926426,  2952.68237"
+  },
+  "14": {
+    "money": 1500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-156.707428,  24.2926388,  2962.24609"
+  },
+  "24": {
+    "money": 600,
+    "type": "spawn_unit",
+    "cframe": "-145.336349, 26.728632, 2961.25806, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "sakura"
+  },
+  "5": {
+    "money": 600,
+    "type": "spawn_unit",
+    "cframe": "-157.772751, 23.01264, 2966.29834, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "sakura"
+  },
+  "9": {
+    "money": 500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-155.262756,  24.2926388,  2964.53467"
+  },
+  "20": {
+    "wave/time": "Wave: 4|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "30": {
+    "pos": "-155.587479,  24.2926426,  2952.68237",
+    "type": "upgrade_unit_ingame"
+  },
+  "8": {
+    "money": 500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-156.707428,  24.2926388,  2962.24609"
+  },
+  "10": {
+    "money": 500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-153.893921,  24.2926388,  2966.37476"
+  }
+}

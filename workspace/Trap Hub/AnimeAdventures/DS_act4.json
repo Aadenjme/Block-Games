@@ -1,0 +1,583 @@
+{
+  "1": {
+    "type": "vote_start"
+  },
+  "2": {
+    "wave/time": "Wave: 1|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "3": {
+    "money": 1000,
+    "type": "spawn_unit",
+    "cframe": "-101.890022, 495.761292, -67.2501297, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "nami_evolved"
+  },
+  "4": {
+    "wave/time": "Wave: 2|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "5": {
+    "money": 1000,
+    "type": "spawn_unit",
+    "cframe": "-100.827583, 495.761292, -65.6808624, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "nami_evolved"
+  },
+  "6": {
+    "wave/time": "Wave: 3|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "7": {
+    "money": 1000,
+    "type": "spawn_unit",
+    "cframe": "-99.348526, 495.761292, -64.3942719, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "nami_evolved"
+  },
+  "8": {
+    "money": 500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-101.890022,  497.04129,  -67.2501297"
+  },
+  "9": {
+    "wave/time": "Wave: 4|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "10": {
+    "money": 600,
+    "type": "spawn_unit",
+    "cframe": "-102.55825, 495.761292, -69.0241318, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "sakura"
+  },
+  "11": {
+    "money": 800,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.55825,  497.041351,  -69.0241318"
+  },
+  "12": {
+    "wave/time": "Wave: 5|Time: 44",
+    "type": "vote_wave_skip"
+  },
+  "13": {
+    "money": 1400,
+    "type": "spawn_unit",
+    "cframe": "-102.429825, 495.761292, -70.9895706, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "itachi_2_evolved"
+  },
+  "14": {
+    "money": 1400,
+    "type": "spawn_unit",
+    "cframe": "-102.294487, 495.761292, -72.9368515, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "itachi_2_evolved"
+  },
+  "15": {
+    "money": 1400,
+    "type": "spawn_unit",
+    "cframe": "-102.471985, 495.761292, -74.8912659, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "itachi_2_evolved"
+  },
+  "16": {
+    "money": 500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-100.827583,  497.04129,  -65.6808624"
+  },
+  "17": {
+    "money": 500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-99.348526,  497.04129,  -64.3942719"
+  },
+  "18": {
+    "wave/time": "Wave: 6|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "19": {
+    "money": 750,
+    "type": "upgrade_unit_ingame",
+    "pos": "-101.890022,  497.04129,  -67.2501297"
+  },
+  "20": {
+    "money": 800,
+    "type": "spawn_unit",
+    "cframe": "-98.9274216, 495.761292, -69.6227341, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "wendy"
+  },
+  "21": {
+    "money": 800,
+    "type": "spawn_unit",
+    "cframe": "-99.0071564, 495.761292, -71.8136368, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "wendy"
+  },
+  "22": {
+    "money": 800,
+    "type": "spawn_unit",
+    "cframe": "-97.137886, 495.761292, -71.0805435, 1, 0, -0, -0, 1, -0, 0, 0, 1",
+    "unit": "wendy"
+  },
+  "23": {
+    "wave/time": "Wave: 7|Time: 46",
+    "type": "use_active_attack"
+  },
+  "24": {
+    "money": 750,
+    "type": "upgrade_unit_ingame",
+    "pos": "-100.827583,  497.04129,  -65.6808624"
+  },
+  "25": {
+    "money": 750,
+    "type": "upgrade_unit_ingame",
+    "pos": "-99.348526,  497.04129,  -64.3942719"
+  },
+  "26": {
+    "money": 1500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-101.890022,  497.04129,  -67.2501297"
+  },
+  "27": {
+    "money": 1500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-100.827583,  497.04129,  -65.6808624"
+  },
+  "28": {
+    "wave/time": "Wave: 7|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "29": {
+    "money": 1500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-99.348526,  497.04129,  -64.3942719"
+  },
+  "30": {
+    "wave/time": "Wave: 7|Time: 1",
+    "type": "use_active_attack"
+  },
+  "31": {
+    "money": 1400,
+    "type": "spawn_unit",
+    "cframe": "-112.490776, 495.600433, -106.209396, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "emilia"
+  },
+  "32": {
+    "money": 0,
+    "type": "cycle_priority",
+    "pos": "-112.470009,  496.946686,  -106.209396"
+  },
+  "33": {
+    "money": 0,
+    "type": "cycle_priority",
+    "pos": "-112.470009,  496.946686,  -106.209396"
+  },
+  "34": {
+    "money": 1400,
+    "type": "spawn_unit",
+    "cframe": "-101.171181, 495.761292, -63.7275505, 0, 0, 1, 0, 1, -0, -1, 0, -0",
+    "unit": "emilia"
+  },
+  "35": {
+    "wave/time": "Wave: 8|Time: 40",
+    "type": "use_active_attack"
+  },
+  "36": {
+    "wave/time": "Wave: 8|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "37": {
+    "money": 800,
+    "type": "spawn_unit",
+    "cframe": "-121.72171, 495.761292, -67.8423462, -1, 0, -0, 0, 1, -0, 0, -0, -1",
+    "unit": "bulma"
+  },
+  "38": {
+    "money": 1500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-121.72171,  497.041321,  -67.8423462"
+  },
+  "39": {
+    "money": 3000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-121.72171,  497.041321,  -67.8423462"
+  },
+  "40": {
+    "money": 2000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-101.890022,  497.04129,  -67.2501297"
+  },
+  "41": {
+    "wave/time": "Wave: 9|Time: 55",
+    "type": "use_active_attack"
+  },
+  "42": {
+    "wave/time": "Wave: 9|Time: 34",
+    "type": "use_active_attack"
+  },
+  "43": {
+    "wave/time": "Wave: 9|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "44": {
+    "money": 2200,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "45": {
+    "money": 3500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "46": {
+    "money": 2000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-100.827583,  497.04129,  -65.6808624"
+  },
+  "47": {
+    "wave/time": "Wave: 10|Time: 49",
+    "type": "use_active_attack"
+  },
+  "48": {
+    "wave/time": "Wave: 10|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "49": {
+    "wave/time": "Wave: 10|Time: 4",
+    "type": "use_active_attack"
+  },
+  "50": {
+    "money": 2000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-99.348526,  497.04129,  -64.3942719"
+  },
+  "51": {
+    "money": 4000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "52": {
+    "money": 2200,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.429825,  497.04129,  -70.9895706"
+  },
+  "53": {
+    "money": 2200,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "54": {
+    "wave/time": "Wave: 11|Time: 43",
+    "type": "use_active_attack"
+  },
+  "55": {
+    "wave/time": "Wave: 11|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "56": {
+    "money": 4500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "57": {
+    "money": 4500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-121.72171,  497.041321,  -67.8423462"
+  },
+  "58": {
+    "wave/time": "Wave: 12|Time: 57",
+    "type": "use_active_attack"
+  },
+  "59": {
+    "money": 3500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.429825,  497.04129,  -70.9895706"
+  },
+  "60": {
+    "wave/time": "Wave: 12|Time: 36",
+    "type": "use_active_attack"
+  },
+  "61": {
+    "wave/time": "Wave: 12|Time: 28",
+    "type": "vote_wave_skip"
+  },
+  "62": {
+    "money": 3500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "63": {
+    "wave/time": "Wave: 13|Time: 67",
+    "type": "use_active_attack"
+  },
+  "64": {
+    "money": 7500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-121.72171,  497.041321,  -67.8423462"
+  },
+  "65": {
+    "money": 4000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "66": {
+    "wave/time": "Wave: 13|Time: 46",
+    "type": "use_active_attack"
+  },
+  "67": {
+    "money": 4500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "68": {
+    "money": 0,
+    "type": "cycle_priority",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "69": {
+    "money": 0,
+    "type": "cycle_priority",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "70": {
+    "wave/time": "Wave: 13|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "71": {
+    "money": 10000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-121.72171,  497.041321,  -67.8423462"
+  },
+  "72": {
+    "wave/time": "Wave: 13|Time: 1",
+    "type": "use_active_attack"
+  },
+  "73": {
+    "money": 2500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-101.890022,  497.04129,  -67.2501297"
+  },
+  "74": {
+    "wave/time": "Wave: 14|Time: 54",
+    "type": "use_active_attack"
+  },
+  "75": {
+    "wave/time": "Wave: 14|Time: 33",
+    "type": "use_active_attack"
+  },
+  "76": {
+    "wave/time": "Wave: 14|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "77": {
+    "money": 3500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-101.890022,  497.04129,  -67.2501297"
+  },
+  "78": {
+    "money": 5000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-101.890022,  497.04129,  -67.2501297"
+  },
+  "79": {
+    "money": 5000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "80": {
+    "money": 4000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.429825,  497.04129,  -70.9895706"
+  },
+  "81": {
+    "money": 4500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.429825,  497.04129,  -70.9895706"
+  },
+  "82": {
+    "wave/time": "Wave: 15|Time: 48",
+    "type": "use_active_attack"
+  },
+  "83": {
+    "wave/time": "Wave: 15|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "84": {
+    "money": 6000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-101.890022,  497.04129,  -67.2501297"
+  },
+  "85": {
+    "wave/time": "Wave: 15|Time: 3",
+    "type": "use_active_attack"
+  },
+  "86": {
+    "money": 2500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-100.827583,  497.04129,  -65.6808624"
+  },
+  "87": {
+    "money": 3500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-100.827583,  497.04129,  -65.6808624"
+  },
+  "88": {
+    "money": 2500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-99.348526,  497.04129,  -64.3942719"
+  },
+  "89": {
+    "money": 3500,
+    "type": "upgrade_unit_ingame",
+    "pos": "-99.348526,  497.04129,  -64.3942719"
+  },
+  "90": {
+    "wave/time": "Wave: 16|Time: 42",
+    "type": "use_active_attack"
+  },
+  "91": {
+    "wave/time": "Wave: 16|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "92": {
+    "money": 7000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "93": {
+    "money": 10000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "94": {
+    "wave/time": "Wave: 17|Time: 72",
+    "type": "use_active_attack"
+  },
+  "95": {
+    "wave/time": "Wave: 17|Time: 50",
+    "type": "use_active_attack"
+  },
+  "96": {
+    "money": 5000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-100.827583,  497.04129,  -65.6808624"
+  },
+  "97": {
+    "money": 5000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-99.348526,  497.04129,  -64.3942719"
+  },
+  "98": {
+    "money": 5000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "99": {
+    "wave/time": "Wave: 17|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "100": {
+    "wave/time": "Wave: 17|Time: 29",
+    "type": "use_active_attack"
+  },
+  "101": {
+    "money": 15000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "102": {
+    "wave/time": "Wave: 18|Time: 59",
+    "type": "use_active_attack"
+  },
+  "103": {
+    "money": 7000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "104": {
+    "wave/time": "Wave: 18|Time: 38",
+    "type": "use_active_attack"
+  },
+  "105": {
+    "money": 10000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "106": {
+    "wave/time": "Wave: 18|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "107": {
+    "money": 0,
+    "type": "cycle_priority",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "108": {
+    "money": 0,
+    "type": "cycle_priority",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "109": {
+    "money": 0,
+    "type": "cycle_priority",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "110": {
+    "money": 0,
+    "type": "cycle_priority",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "111": {
+    "wave/time": "Wave: 19|Time: 83",
+    "type": "use_active_attack"
+  },
+  "112": {
+    "money": 5000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.429825,  497.04129,  -70.9895706"
+  },
+  "113": {
+    "money": 7000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.429825,  497.04129,  -70.9895706"
+  },
+  "114": {
+    "money": 10000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.429825,  497.04129,  -70.9895706"
+  },
+  "115": {
+    "wave/time": "Wave: 19|Time: 62",
+    "type": "use_active_attack"
+  },
+  "116": {
+    "wave/time": "Wave: 19|Time: 40",
+    "type": "use_active_attack"
+  },
+  "117": {
+    "wave/time": "Wave: 19|Time: 29",
+    "type": "vote_wave_skip"
+  },
+  "118": {
+    "money": 17000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.471985,  497.04129,  -74.8912659"
+  },
+  "119": {
+    "wave/time": "Wave: 20|Time: 55",
+    "type": "use_active_attack"
+  },
+  "120": {
+    "wave/time": "Wave: 20|Time: 34",
+    "type": "use_active_attack"
+  },
+  "121": {
+    "money": 15000,
+    "type": "upgrade_unit_ingame",
+    "pos": "-102.294487,  497.04129,  -72.9368515"
+  },
+  "122": {
+    "wave/time": "Wave: 20|Time: 13",
+    "type": "use_active_attack"
+  },
+  "123": {
+    "wave/time": "Wave: 20|Time: -8",
+    "type": "use_active_attack"
+  },
+  "124": {
+    "wave/time": "Wave: 20|Time: -30",
+    "type": "use_active_attack"
+  }
+}
